@@ -1,0 +1,34 @@
+.browse-button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.browse-button {
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+  border-color: #996680;
+  color: white;
+  background-color: #996680;
+  cursor: pointer;
+  overflow: hidden;
+  font-family: Helvetica, sans-serif;
+  outline: none;
+  overflow: hidden;
+}
+
+.buy-button {
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+  border-color: #996680;
+  color: white;
+  background-color: #996680;
+  cursor: pointer;
+  overflow: hidden;
+  font-family: Helvetica, sans-serif;
+  margin-left: 15px;
+  outline: none;
+  overflow: hidden;
+}

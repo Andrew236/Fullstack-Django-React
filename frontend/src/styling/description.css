@@ -1,0 +1,15 @@
+.description-text {
+  color: black;
+  font-size: 25px;
+  text-align: center;
+  display: flex;
+  width: 75%;
+}
+
+.description-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: flex-start;
+}

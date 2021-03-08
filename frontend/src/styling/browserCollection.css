@@ -1,0 +1,40 @@
+.mainCont {
+  /* display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 50px; */
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.cont {
+  display: flex;
+  align-items: center;
+  height: 550px;
+  flex-direction: column;
+  margin: 60px;
+  width: 300px;
+  margin-top: 100px;
+}
+
+.images {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 30px;
+}
+
+.form-header {
+  font-family: "Amatic SC", cursive;
+  color: black;
+}
+.form-summary {
+  font-family: "Abel", sans-serif;
+  font-size: 22px;
+  text-align: center;
+}

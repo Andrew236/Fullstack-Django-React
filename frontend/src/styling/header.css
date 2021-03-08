@@ -1,0 +1,25 @@
+.header {
+  font-size: 75px;
+  color: white;
+  font-family: "Shadows Into Light", cursive;
+  text-align: center;
+}
+
+.header2 {
+  font-size: 50px;
+  font-family: "Pacifico", cursive;
+  font-family: "Quicksand", sans-serif;
+  letter-spacing: 20px;
+  color: white;
+}
+
+.description-paragraph {
+  font-size: 25px;
+  text-align: center;
+  width: 65%;
+  line-height: normal;
+  margin-top: 40px;
+  font-family: 'Abel', sans-serif;
+  /* color:black */
+  
+}

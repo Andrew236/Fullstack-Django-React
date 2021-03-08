@@ -1,0 +1,7 @@
+.App {
+  /* background-color: #c3d7d8; */
+  background-color: #669999;
+  
+  height:100vh;
+  overflow-y: auto;
+}

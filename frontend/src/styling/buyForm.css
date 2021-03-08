@@ -1,0 +1,103 @@
+.buy-form-cont {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+.name-field-cont {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.email-name {
+  width: 100%;
+  height: 35px;
+  margin-top: 30px;
+  display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: black;
+  border: 1px #669999;
+  border-radius: 10px;
+  -webkit-mask-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC);
+  mask-image: none;
+}
+
+.name-field {
+  width: 100%;
+  height: 35px;
+  display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: black;
+  border: 1px #669999;
+  border-radius: 10px;
+  -webkit-mask-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC);
+  mask-image: none;
+}
+
+.error-label {
+  color: "#990000";
+  display: "flex";
+  justify-content: "center";
+}
+
+.radio-cont {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.choose-one-text {
+  color: white;
+  font-weight: normal;
+  background-color: #996666;
+  border-radius: 10px;
+  margin-right: 15px;
+  padding: 10px;
+}
+
+.form {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+.info-cont {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.info {
+  width: 500px;
+  height: 250px;
+  padding: 0 0 0px 0;
+}
+
+.textAreaForm {
+  font-size: 23px;
+  resize: none;
+  width: 500px;
+  height: 250px;
+  font-size: 23px;
+  font-weight: normal;
+  font-family: "Abel", sans-serif;
+}
+
+.order-from-description-header {
+  font-family: "Amatic SC", cursive;
+  color: black;
+ 
+}
