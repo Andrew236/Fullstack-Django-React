@@ -45,7 +45,7 @@ class PostingViewSet(viewsets.ModelViewSet):
             with smtplib.SMTP(host="smtp.gmail.com", port=587) as smtp:
                 smtp.ehlo()
                 smtp.starttls()
-                smtp.login("korisreceptionist@gmail.com", "maverickiscool23")
+                smtp.login("HiddenInfo", "Hidden info")
                 smtp.send_message(message)
                 smtp.send_message(message_no_reply)
                 print("Sent")
